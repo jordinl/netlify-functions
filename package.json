@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "echo build"
+    "build": "node build.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/zip-it-and-ship-it": "^3.7.0"
+  }
 }
