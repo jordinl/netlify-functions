@@ -1,0 +1,10 @@
+{
+  "name": "netlify-functions",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "echo build"
+  },
+  "author": "",
+  "license": "ISC"
+}
